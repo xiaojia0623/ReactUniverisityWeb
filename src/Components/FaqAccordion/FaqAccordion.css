@@ -1,0 +1,11 @@
+.faq-section p, .faq-section .accordion {
+  width: 75%;
+}
+.faq-section .accordion .accordion-button:focus,
+.faq-section .accordion .accordion-button:not(.collapsed) {
+  box-shadow: none;
+}
+.faq-section .accordion .accordion-button:not(.collapsed) {
+  background-color: #dc3545;
+  color: #ffffff;
+}/*# sourceMappingURL=FaqAccordion.css.map */
